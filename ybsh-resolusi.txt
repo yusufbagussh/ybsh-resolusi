@@ -1,6 +1,5 @@
 YBSH RESOLUSI :
--konsisten untuk menjadi seorang programmer
--mempelajari beberapa bahasa pemrograman
--menguasai beberapa bahasa pemrograman
+-konsisten untuk menjadi seorang programmer 
+-mempelajari beberapa bahasa java dan phyton
+-menguasai beberapa bahasa java & phyton
 -membuat satu web sederhana
--menguasai java & phyton
