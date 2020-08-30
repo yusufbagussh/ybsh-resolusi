@@ -1,0 +1,4 @@
+rencana belajar:
+belajar html
+belajar css dasar
+belajar css layouting
